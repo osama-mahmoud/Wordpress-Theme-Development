@@ -4042,3 +4042,8 @@ p.form-message.error {
 .thum .course-teacher .name h6 a {
   color: #ffffff;
 }
+.updatesubmit .contact-from .main-form .singel-form .updatestyle {
+  background-color: unset;
+  background-color: #07294d;
+  color: white;
+}

@@ -52,7 +52,7 @@ if(isset($_POST['submitted'])) {
 	<section id="contact-page" class="pt-90 pb-120 gray-bg">
       <div class="container">
         <div class="row">
-          <div class="col-lg-7">
+          <div class="col-lg-7 updatesubmit">
            <div class="contact-from mt-30">
               <div class="section-title">
                 <h5>Contact Us</h5>
@@ -110,7 +110,7 @@ if(isset($_POST['submitted'])) {
                     </div>
 					<div class="col-md-12">
                       <div class="singel-form">
-					  <input type="submit" class="main-btn"></input>
+					  <input type="submit" class="main-btn updatestyle"></input>
                       </div>
                       <!-- singel form -->
                     </div>
